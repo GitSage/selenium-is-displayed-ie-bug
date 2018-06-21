@@ -1,0 +1,14 @@
+{
+  "name": "isdisplayedbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
